@@ -1,0 +1,14 @@
+{
+  "name": "pw3",
+  "version": "1.0.0",
+  "description": "Trabalho semestral de Pw3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Carolinna Balassoni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
